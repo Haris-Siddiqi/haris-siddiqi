@@ -9,5 +9,3 @@
     <li><a href=https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/>How I Built A Self-Updating README On My Github Profile</a></li><li><a href=https://www.mokkapps.de/blog/property-based-testing-with-type-script/>Property Based Testing With Typescript</a></li><li><a href=https://www.mokkapps.de/blog/how-to-generate-angular-and-spring-code-from-open-api-specification/>How To Generate Angular & Spring Code From OpenAPI Specification</a></li><li><a href=https://www.mokkapps.de/blog/sending-message-to-specific-anonymous-user-on-spring-websocket/>Sending Message To Specific Anonymous User On Spring WebSocket</a></li><li><a href=https://www.mokkapps.de/blog/boost-your-productivity-by-using-the-terminal-iterm-and-zsh/>Boost Your Productivity By Using The Terminal (iTerm & ZSH)</a></li>
   </ul>
 <p><a href="https://www.mokkapps.de/blog">➡️ More blog posts</a></p>
-<h1>Last Tweet</h1>
-<p><a href="https://www.twitter.com/mokkapps"><img src="https://github.com/mokkapps/mokkapps/blob/master/tweet.png" width="600"></a></p>
