@@ -9,6 +9,8 @@ Additional projects (since GitHub only lets you pin 6 projects lol):
 - C# algorithms: https://github.com/Haris-Siddiqi/C-Sharp-Algorithms
 - Responsive landing page: https://github.com/Haris-Siddiqi/Landing-page
 
+<br />
+
 Other experience:
 - SRS document: https://github.com/Haris-Siddiqi/SRS-Document/tree/master
 - Student-led webinar: https://github.com/Haris-Siddiqi/Webinar/tree/master
