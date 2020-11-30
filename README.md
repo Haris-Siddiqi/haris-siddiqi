@@ -8,7 +8,7 @@ Additional projects (since GitHub only lets you pin 6 projects lol):
 - Python data analysis: https://github.com/Haris-Siddiqi/Population-Analysis-Python
 - C# algorithms: https://github.com/Haris-Siddiqi/C-Sharp-Algorithms
 - Responsive landing page: https://github.com/Haris-Siddiqi/Landing-page
-- Java Investment Calculator: https://github.com/Haris-Siddiqi/Investment-Calculator
+- Java investment calculator: https://github.com/Haris-Siddiqi/Investment-Calculator
 
 <br />
 
